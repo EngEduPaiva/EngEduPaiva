@@ -3,6 +3,14 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EngEduPaiva)
 
+👨‍💻 Sobre mim
+Profissional com mais de 30 anos de experiência em manutenção eletroeletrônica e análise de sistemas críticos, atualmente em transição para a área de Desenvolvimento de Software.
+
+Tenho forte raciocínio lógico, experiência em resolução de problemas complexos e grande disciplina operacional — características essenciais para sistemas de missão crítica.
+
+Busco oportunidades como Pessoa Desenvolvedora Júnior, com grande interesse em sistemas embarcados, defesa, simulação e engenharia de software de alta confiabilidade.
+
+
 
 
 
